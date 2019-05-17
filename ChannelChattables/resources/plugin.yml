@@ -1,0 +1,11 @@
+name: ChannelChattables
+main: chattables.ChannelChattables
+version: 1.0.0
+
+
+commands:
+  admin:
+    description: test
+permissions:
+  channelchat.permission:
+    description: also a test gang shit
